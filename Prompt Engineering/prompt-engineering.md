@@ -1,4 +1,4 @@
-# Prompt Engineering for AWS Certified AI Practitioner (AIF-C01)
+# Prompt Engineering for AWS Certified AI Practitioner (AIF-C01
 
 ## 1. What is Prompt Engineering?
 > Prompt engineering = Writing better instructions for AI to get better answers.
